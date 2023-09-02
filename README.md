@@ -1,4 +1,4 @@
-# Text-Summarizer
+# text-summarizer Project
 
 This project is a simple text-summarizer which uses inbuilt transformers from hugging face to perform text-summarizing . Deployed using fast api . Further deploying it in aws will be done in later updates
 
@@ -8,7 +8,7 @@ This project is a simple text-summarizer which uses inbuilt transformers from hu
 
 3.entity
 
-4.configs.py
+4.configs.py 
 
 5.components in src
 
